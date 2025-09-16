@@ -1,0 +1,26 @@
+[
+  {
+    "id": "59210e90-4f16-42db-8829-1daf683ab240",
+    "titulo": "polera",
+    "price": 500,
+    "stock": 5
+  },
+  {
+    "id": "9b2c9616-9257-4350-9ae9-0a54755efba8",
+    "titulo": "pantalon",
+    "price": 2500,
+    "stock": 5
+  },
+  {
+    "id": "45f5729b-0a4d-4f33-ba20-95b18baeaff2",
+    "titulo": "camizon",
+    "price": 3500,
+    "stock": 15
+  },
+  {
+    "id": "9703ed1f-835f-476d-8b47-ee3738d474d0",
+    "titulo": "camizon",
+    "price": 3500,
+    "stock": 15
+  }
+]
